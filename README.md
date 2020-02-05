@@ -1,2 +1,0 @@
-# PokemonListApp
-Created with CodeSandbox
